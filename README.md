@@ -9,6 +9,7 @@
 
 마이피플 API PHP용 샘플입니다.
 https://github.com/daumdna/apis/tree/master/Samples/8.Mypeople/BotAPI/PHP
+
 위의 github 소스 그대로입니다.
 
 ###db.php
